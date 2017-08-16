@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Welcome to Gee Blog"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2017-08-15 12:00:00
+subtitle:   " \"开启个人博客模式记录生活点滴\""
+date:       2017-08-15 19:00:00
 author:     "Gee"
 header-img: "img/post-bg-2015.jpg"
 tags:
