@@ -4,14 +4,28 @@ title:      "Welcome to Gee Blog"
 subtitle:   " \"开启个人博客模式记录生活点滴\""
 date:       2017-08-15 19:00:00
 author:     "Gee"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-2017-08-15.jpg"
 tags:
     - 生活
 ---
 
-> “就这样. ”
+> “我唯一知道的就是我一无所知。”&emsp;&emsp;&emsp;&emsp;——苏格拉底
 
 
 ## 前言
 
-test
+&emsp;&emsp;一直想找一个地方写博客，却因为懒一直没实现。作为一个程序员，没有博客怎么可以！于是狠下心来在github搭建了一个属于自己的博客。
+
+&emsp;&emsp;感谢博客模板作者 https://huangxuan.me/ ，本博客是基于他的开源代码搭建的。
+
+---
+
+## 博客搭建
+
+&emsp;&emsp;博客搭建采用的是GitHub Pages + Jekyll，配合Markdown语法，编辑博文的时候可以用有道云笔记，自带Markdown编辑器。目前是在有道云笔记编辑后手动复制同步到GitHub。后面想办法如何同步到GitHub，或内嵌一些开源Markdown编辑器组件来实现在线编辑功能。
+
+---
+
+## 新的开始
+
+&emsp;&emsp;最近换了工作，在生活上也发生了很多重要的转变。所以我给自己制定了新的目标，继续扬帆前行。不忘初心，方得始终。
